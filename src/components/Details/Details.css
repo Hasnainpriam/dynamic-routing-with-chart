@@ -1,0 +1,19 @@
+.main-container{
+  margin: 2rem;
+}
+
+.display-container{
+  display: grid;
+  grid-gap: 10px 15px;
+  grid-template-columns: 1fr 3fr 1fr 1fr;
+  grid-template-rows: 40px auto;
+  border: 1px solid black;
+  border-radius: 1rem;
+  text-align: center;
+  padding: .25rem;
+  margin:.50rem auto;
+  box-shadow: 5px 5px 8px gray;
+}
+.display-container button{
+  margin: auto;
+}

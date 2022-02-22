@@ -1,0 +1,14 @@
+.text-container{
+  display: flex;
+  justify-content: center;
+  
+}
+.text-container h1{
+  padding: 1rem 5.5rem;
+}
+.chart-section{
+ display: flex;
+ justify-content: center;
+ border-bottom: 1px solid black;
+ margin: 1rem 0px;
+}

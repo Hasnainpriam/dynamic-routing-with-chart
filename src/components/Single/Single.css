@@ -1,0 +1,9 @@
+
+.single{
+  width: 60%;
+  margin: 5rem auto;
+  line-height: 3rem;
+  border: 1px solid black;
+  border-radius: 20px;
+  background:rgb(233, 232, 232);
+}
